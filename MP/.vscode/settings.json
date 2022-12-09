@@ -3,6 +3,8 @@
   "files.associations": {
     "new": "cpp",
     "queue": "cpp",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "ios": "cpp",
+    "vector": "cpp"
   }
 }
