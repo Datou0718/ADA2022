@@ -1,4 +1,5 @@
 # ADA2022
+## Video Link
 ### Divide and Conquer
 https://youtu.be/8ASEk3s9OUc
 ### Dynamic Programming
